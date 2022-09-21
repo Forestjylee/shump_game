@@ -1,0 +1,6 @@
+build/
+dist/
+Explosions_kenney/
+SpaceShooterRedux/
+*.zip
+*.spec
